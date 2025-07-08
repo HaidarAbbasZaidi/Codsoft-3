@@ -35,6 +35,6 @@ A simple and functional calculator built using **HTML, CSS, and JavaScript**. Th
 ├── style.css         # Styling for calculator
 ├── script.js         # Functional logic
 └── README.md         # Documentation
+---
 
-
-**Built with love by Abhishek.❤️❤️**
+**Built with love by Haidar.❤️❤️**
