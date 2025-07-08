@@ -4,7 +4,7 @@
 
 A simple and functional calculator built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations like addition, subtraction, multiplication, and division through an interactive and responsive UI.,**CodSoft internship**.
 
-🔗 **Live Demo:** [codsodt-ts3.netlify.app](https://codsodt-ts3.netlify.app/)
+🔗 **Live Demo:** [bejewelled-cannoli-7229f3.netlify.app](https://bejewelled-cannoli-7229f3.netlify.app/)
 
 ---
 
